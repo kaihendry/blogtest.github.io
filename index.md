@@ -8,7 +8,7 @@ Will this work?
 
 
 
-<script src="http://cdn.dashjs.org/latest/dash.all.min.js"></script>
+<script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
 <style>
     video {
        width: 640px;
