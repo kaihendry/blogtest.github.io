@@ -1,7 +1,8 @@
 ---
 title: Blogging Like a Pro
 ---
-<p><a href=https://github.com/kaihendry/kaihendry.github.io/new/master/_posts">Create new blog</a></p>
+
+[Create new blog](https://github.com/kaihendry/kaihendry.github.io/new/master/_posts)
 
 <ul>
   {% for post in site.posts %}
