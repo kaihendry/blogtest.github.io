@@ -2,12 +2,10 @@
 title: Blogging Like a Pro
 ---
 
-# hello world!
-
-Will this work?
-
-# Another test
-
-[About](/about)
-
-Ok, this is good.
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.date | date_to_long_string }} &dash; {{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
