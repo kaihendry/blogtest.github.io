@@ -7,3 +7,5 @@ title: Blogging Like a Pro
 Will this work?
 
 # Another test
+
+[About](/about)
